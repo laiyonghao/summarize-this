@@ -7,6 +7,17 @@
 * [在其它系统中集成](#5在其它系统中集成)
 * [联系方式](#6联系方式)
 
+## 0、已集成博客
+
+1. [Seven's blog](https://blog.diqigan.cn/)
+2. [诺墨normalcoder](https://normalcoder.com/)
+3. [蟒周刊](https://weekly.pychina.org/)
+4. [Zoom Quiet](https://blog.zoomquiet.io/)
+4. [自怼圈](https://du.101.camp/)
+4. [AI.News](https://mts.wiki/)
+4. [Eson Wong's Blog](https://blog.esonwong.com/)
+4. [挖坑不填兽](https://marchliu.github.io/)
+
 ## 1、简介
 
 因为[红头条](https://xhh.club/)本来就给很多博客文章做了摘要了，搞了个方案，给大家放到自己的博客里面去。这样大家就不用对接 OpenAI，也不用出钱。
