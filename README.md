@@ -13,10 +13,11 @@
 2. [诺墨normalcoder](https://normalcoder.com/)
 3. [蟒周刊](https://weekly.pychina.org/)
 4. [Zoom Quiet](https://blog.zoomquiet.io/)
-4. [自怼圈](https://du.101.camp/)
-4. [AI.News](https://mts.wiki/)
-4. [Eson Wong's Blog](https://blog.esonwong.com/)
-4. [挖坑不填兽](https://marchliu.github.io/)
+5. [自怼圈](https://du.101.camp/)
+6. [AI.News](https://mts.wiki/)
+7. [Eson Wong's Blog](https://blog.esonwong.com/)
+8. [挖坑不填兽](https://marchliu.github.io/)
+9. [Dive In Web3](https://lispking.github.io)
 
 ## 1、简介
 
